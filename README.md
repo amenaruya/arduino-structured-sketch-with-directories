@@ -1,1 +1,1 @@
-# arduino-structured-sketch-with-directories
+# Arduino structured sketch with directories
